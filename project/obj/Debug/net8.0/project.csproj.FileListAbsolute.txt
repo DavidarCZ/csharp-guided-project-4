@@ -1,0 +1,15 @@
+/home/davidarcz/repos/csharp-guided-project-4/project/bin/Debug/net8.0/project
+/home/davidarcz/repos/csharp-guided-project-4/project/bin/Debug/net8.0/project.deps.json
+/home/davidarcz/repos/csharp-guided-project-4/project/bin/Debug/net8.0/project.runtimeconfig.json
+/home/davidarcz/repos/csharp-guided-project-4/project/bin/Debug/net8.0/project.dll
+/home/davidarcz/repos/csharp-guided-project-4/project/bin/Debug/net8.0/project.pdb
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.AssemblyInfoInputs.cache
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.AssemblyInfo.cs
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.csproj.CoreCompileInputs.cache
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.sourcelink.json
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.dll
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/refint/project.dll
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.pdb
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/project.genruntimeconfig.cache
+/home/davidarcz/repos/csharp-guided-project-4/project/obj/Debug/net8.0/ref/project.dll
